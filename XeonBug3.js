@@ -1,10 +1,3 @@
-//base by DGXeon (Xeon Bot Inc.)
-//YouTube: @Saadibrahim_900
-//Instagram: saadibrahim900
-//Telegram: t.me/saad143s
-//GitHub: @saad143ss
-//WhatsApp: +923156157942
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@saadibrahim_900
 
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
